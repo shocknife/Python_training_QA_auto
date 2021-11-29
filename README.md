@@ -1,1 +1,1 @@
-# Python_training_QA_auto
+# Repository fro Python Training QA auto
